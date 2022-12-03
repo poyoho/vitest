@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "tinyspy": "^1.0.2",
-    "vitest": "workspace:*"
+    "vitest": "workspace:*",
+    "jsmpeg-lite": "latest"
   }
 }
